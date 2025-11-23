@@ -20,4 +20,8 @@ Here are some ideas to get you started:
 <img src="https://i.pinimg.com/1200x/3c/b9/02/3cb90242e4c53f114fd619f2bac5bdc7.jpg" />
 <img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/11/ec/f9/11ecf9260e675e5ba35aace8e0ac49c2.gif" />
 <h3 align="center">⊹.*About me⊹.*</h3>
- ᛝ     •    ➜  
+ ᛝ     •    ➜  I'm a student and an artist. I'm still in college and expanding my knowledge in design. I'm passionate about creating new things.
+
+  <img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="90"/> I love playing video games, listening to music, and drawing.
+  
+  
