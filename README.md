@@ -1,4 +1,7 @@
-## Hi there 👋
+<h1 align="center">
+<img height="40" src="https://media.tenor.com/YSzBJZA8P0cAAAAj/cat-black.gif"> Hi, I'm Karina! ☕
+</h1>
+<h3 align="center">A passionate Student and Artist from Ecuador</h3>
 
 <!--
 **Monak-hub2/Monak-hub2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://i.pinimg.com/1200x/3c/b9/02/3cb90242e4c53f114fd619f2bac5bdc7.jpg" />
+<img align="right" width=400px alt="Unicorn" src="https://i.pinimg.com/originals/11/ec/f9/11ecf9260e675e5ba35aace8e0ac49c2.gif" />
+<h3 align="center">⊹.*About me⊹.*</h3>
+ ᛝ     •    ➜  
