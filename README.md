@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 <h3 align="center">⊹.*About me⊹.*</h3>
  ᛝ     •    ➜  I'm a student and an artist. I'm still in college and expanding my knowledge in design. I'm passionate about creating new things.
 
-  <img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="90"/> I love playing video games, listening to music, and drawing.
+  <img align="center" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="80"/> I love playing video games, listening to music, and drawing.
   
   
